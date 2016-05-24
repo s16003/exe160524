@@ -1,0 +1,10 @@
+DMESG(1)                                                       User Commands                                                       DMESG(1)
+
+NAME
+       dmesg - print or control the kernel ring buffer
+
+SYNOPSIS
+       dmesg [options]
+
+       dmesg --clear
+       dmesg --read-clear [options]

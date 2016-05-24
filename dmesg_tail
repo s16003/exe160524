@@ -1,0 +1,10 @@
+AUTHORS
+       Karel Zak ⟨kzak@redhat.com⟩
+
+       dmesg was originally written by Theodore Ts'o ⟨tytso@athena.mit.edu⟩
+
+AVAILABILITY
+       The dmesg command is part of the util-linux package and is available from Linux Kernel Archive ⟨ftp://ftp.kernel.org/pub/linux/utils
+       /util-linux/⟩.
+
+util-linux                                                       July 2012                                                         DMESG(1)
